@@ -5,7 +5,9 @@ Lets build a Classification Model using Python PyTorch that can predict whether 
 Let us Python/PyTorch to build ***ANN, RNN and FNN*** and compare the performance of the each model.
 
 For this experiment, lets use following dataset which contains information about whether a user clicked on an online ad as well as the following factors:
+
 **Features:**
+
 Daily time spent on site
 Age
 Area income
